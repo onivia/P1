@@ -12,7 +12,7 @@ int main(){
             4. mostrar la variable iteradora i.
      */
     int num = 0;
-    cout<<"introduzca un num4-4: ";
+    cout<<"introduzca un num4-4-1: ";
     cin>>num;
     for (int i = num ; i >= 0 ; i--)
     {
